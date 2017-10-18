@@ -1,4 +1,4 @@
-Calculates the maximum HP value of a character for Pathfinder or D&D.
+Calculates the maximum HP value of a character created for Pathfinder or D&D.
 
 The user can select the following values:
 * The character's hit die
