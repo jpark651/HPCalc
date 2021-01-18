@@ -1,4 +1,4 @@
-#HP Calc
+# HP Calc
 
 Calculates the maximum HP value of a character created for Pathfinder or D&D.
 
